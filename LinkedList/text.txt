@@ -1,0 +1,42 @@
+Print the Middle of a given linked list
+Delete the elements in an linked list
+Delete middle of linked list
+Remove duplicate elements from sorted linked list 
+Detect loop in linked list
+Remove loop in linked list
+Find nth node from the end of linked list
+Function to check if a singly linked list is a palindrome
+Reverse alternate k node in a singly linked list
+Delete last occurrence of an item from linked list
+Rotate a linked list.
+Delete n nodes after m nodes of a linked list.
+Merge a linked list into another linked list at alternate positions.
+Write a function to delete a linked list.
+Write a function to reverse the nodes of a linked list.
+Add 1 to a number represented as a linked list
+Flattening a linked list    
+Move last element to front of a given Linked List
+        First non-repeating character in a stream
+            Reverse a Linked List in groups of given size.
+Remove duplicates from an unsorted linked list.
+Add two numbers represented by linked lists.
+Intersection Point of two sorted Linked lists
+Intersection Point in Y Shapped Linked Lists
+Split a Circular Linked List into two halves
+Deletion from a Circular Linked List
+Merge Two sorted Linked list.
+MergeSort a Linked List.
+    Given a linked list of 0s, 1s and 2s, sort it.
+    Fold a linked list.
+    Unfold a linked list.
+    Merge K sorted Linked List.
+    Segregate Even And Odd.
+    Reverse in range.
+    Subtract Two Linked List.
+    Multiply Two Linked List.
+    Remove All duplicate from a Sorted Linked.
+    Segregate 01 Node of a linked list.
+    Segregate 012 Node of a Linked List.
+    Copy Linked List with random pointer.
+    
+
